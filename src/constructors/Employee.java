@@ -31,6 +31,9 @@ public class Employee {
                 ", jobTitle='" + jobTitle + '\'' +
                 ", ID=" + ID +
                 ", salary=" + salary +
+                ", company name=" + companyName +
                 '}';
     }
+
+
 }
